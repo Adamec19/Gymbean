@@ -21,6 +21,7 @@ export default function Home() {
       <Stack as="nav" align="flex-end">
         <Button
           onClick={toggleColorMode}
+          zIndex={1}
           borderRadius="50%"
           h="40px"
           w="40px"
