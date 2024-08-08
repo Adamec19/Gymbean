@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deploy on Vercel
 
-- https://gymbean.vercel.app/
+- https://todo-app-khaki-one-95.vercel.app/
